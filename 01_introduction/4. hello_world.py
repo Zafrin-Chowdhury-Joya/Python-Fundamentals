@@ -1,0 +1,1 @@
+print("Hello, World! Welcome to Python programming. This simple program confirms that your Python environment is set up correctly and ready for development.")
