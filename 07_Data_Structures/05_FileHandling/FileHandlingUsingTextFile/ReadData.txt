@@ -1,0 +1,5 @@
+Hello, this is a sample text file.
+My name is Zafrin Chowdhury.
+I am learning Python file handling.
+This file is created for practice purposes.
+Thank you.
