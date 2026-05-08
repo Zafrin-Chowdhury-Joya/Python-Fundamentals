@@ -1,10 +1,10 @@
-# Python Fundamentals 🚀
+# Python Fundamentals 
 
 A beginner-friendly Python learning repository covering the core concepts of Python programming with practical examples and exercises.
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 ### 01. Introduction
 - What is Python
